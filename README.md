@@ -1,4 +1,4 @@
-# AGJ2025
+# Lennys Great Escape (AGJ2025)
 
 ## The theme for this game jam is onomatopoeia.
 
