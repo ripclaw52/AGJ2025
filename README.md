@@ -9,5 +9,19 @@
 > [link to the website](https://itch.io/jam/alberta-game-jam-2025)
 
 Our game is coded within the Unity3D game engine, version 6.2.
+
 Assets used have been created by us.
+
 Sound resources taken from 3rd parties.
+
+
+[link to our game](https://nyxlotus.itch.io/lennys-great-adventure)
+Programmers:
+- Etka
+- Evan Carr
+- Ryley Goodine
+
+Artists:
+- Brenden Finnerty
+- Christy Simon
+- Markypin
