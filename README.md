@@ -16,6 +16,7 @@ Sound resources taken from 3rd parties.
 
 
 [link to our game](https://nyxlotus.itch.io/lennys-great-adventure)
+
 Programmers:
 - Etka
 - Evan Carr
